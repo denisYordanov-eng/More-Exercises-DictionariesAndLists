@@ -1,0 +1,7 @@
+C:\Users\Laptop\Desktop\C#\Dictionaries and Lists - More Exercises\More-Exercises-DictionariesAndLists\02-OddFilter\bin\Debug\02-OddFilter.exe.config
+C:\Users\Laptop\Desktop\C#\Dictionaries and Lists - More Exercises\More-Exercises-DictionariesAndLists\02-OddFilter\bin\Debug\02-OddFilter.exe
+C:\Users\Laptop\Desktop\C#\Dictionaries and Lists - More Exercises\More-Exercises-DictionariesAndLists\02-OddFilter\bin\Debug\02-OddFilter.pdb
+C:\Users\Laptop\Desktop\C#\Dictionaries and Lists - More Exercises\More-Exercises-DictionariesAndLists\02-OddFilter\obj\Debug\02-OddFilter.csproj.AssemblyReference.cache
+C:\Users\Laptop\Desktop\C#\Dictionaries and Lists - More Exercises\More-Exercises-DictionariesAndLists\02-OddFilter\obj\Debug\02-OddFilter.csproj.CoreCompileInputs.cache
+C:\Users\Laptop\Desktop\C#\Dictionaries and Lists - More Exercises\More-Exercises-DictionariesAndLists\02-OddFilter\obj\Debug\02-OddFilter.exe
+C:\Users\Laptop\Desktop\C#\Dictionaries and Lists - More Exercises\More-Exercises-DictionariesAndLists\02-OddFilter\obj\Debug\02-OddFilter.pdb
