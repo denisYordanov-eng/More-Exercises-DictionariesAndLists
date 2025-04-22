@@ -1,0 +1,7 @@
+C:\Users\Laptop\Desktop\C#\Dictionaries and Lists - More Exercises\1-SortTimes\bin\Debug\1-SortTimes.exe.config
+C:\Users\Laptop\Desktop\C#\Dictionaries and Lists - More Exercises\1-SortTimes\bin\Debug\1-SortTimes.exe
+C:\Users\Laptop\Desktop\C#\Dictionaries and Lists - More Exercises\1-SortTimes\bin\Debug\1-SortTimes.pdb
+C:\Users\Laptop\Desktop\C#\Dictionaries and Lists - More Exercises\1-SortTimes\obj\Debug\1-SortTimes.csproj.AssemblyReference.cache
+C:\Users\Laptop\Desktop\C#\Dictionaries and Lists - More Exercises\1-SortTimes\obj\Debug\1-SortTimes.csproj.CoreCompileInputs.cache
+C:\Users\Laptop\Desktop\C#\Dictionaries and Lists - More Exercises\1-SortTimes\obj\Debug\1-SortTimes.exe
+C:\Users\Laptop\Desktop\C#\Dictionaries and Lists - More Exercises\1-SortTimes\obj\Debug\1-SortTimes.pdb
