@@ -1,0 +1,7 @@
+C:\Users\Laptop\Desktop\C#\Dictionaries and Lists - More Exercises\More-Exercises-DictionariesAndLists\04-SupermarketDatabase\bin\Debug\04-SupermarketDatabase.exe.config
+C:\Users\Laptop\Desktop\C#\Dictionaries and Lists - More Exercises\More-Exercises-DictionariesAndLists\04-SupermarketDatabase\bin\Debug\04-SupermarketDatabase.exe
+C:\Users\Laptop\Desktop\C#\Dictionaries and Lists - More Exercises\More-Exercises-DictionariesAndLists\04-SupermarketDatabase\bin\Debug\04-SupermarketDatabase.pdb
+C:\Users\Laptop\Desktop\C#\Dictionaries and Lists - More Exercises\More-Exercises-DictionariesAndLists\04-SupermarketDatabase\obj\Debug\04-SupermarketDatabase.csproj.AssemblyReference.cache
+C:\Users\Laptop\Desktop\C#\Dictionaries and Lists - More Exercises\More-Exercises-DictionariesAndLists\04-SupermarketDatabase\obj\Debug\04-SupermarketDatabase.csproj.CoreCompileInputs.cache
+C:\Users\Laptop\Desktop\C#\Dictionaries and Lists - More Exercises\More-Exercises-DictionariesAndLists\04-SupermarketDatabase\obj\Debug\04-SupermarketDatabase.exe
+C:\Users\Laptop\Desktop\C#\Dictionaries and Lists - More Exercises\More-Exercises-DictionariesAndLists\04-SupermarketDatabase\obj\Debug\04-SupermarketDatabase.pdb
