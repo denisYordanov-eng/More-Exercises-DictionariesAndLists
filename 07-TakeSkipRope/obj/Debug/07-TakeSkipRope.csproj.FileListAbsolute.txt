@@ -1,0 +1,7 @@
+C:\Users\Laptop\Desktop\C#\Dictionaries and Lists - More Exercises\More-Exercises-DictionariesAndLists\07-TakeSkipRope\bin\Debug\07-TakeSkipRope.exe.config
+C:\Users\Laptop\Desktop\C#\Dictionaries and Lists - More Exercises\More-Exercises-DictionariesAndLists\07-TakeSkipRope\bin\Debug\07-TakeSkipRope.exe
+C:\Users\Laptop\Desktop\C#\Dictionaries and Lists - More Exercises\More-Exercises-DictionariesAndLists\07-TakeSkipRope\bin\Debug\07-TakeSkipRope.pdb
+C:\Users\Laptop\Desktop\C#\Dictionaries and Lists - More Exercises\More-Exercises-DictionariesAndLists\07-TakeSkipRope\obj\Debug\07-TakeSkipRope.csproj.AssemblyReference.cache
+C:\Users\Laptop\Desktop\C#\Dictionaries and Lists - More Exercises\More-Exercises-DictionariesAndLists\07-TakeSkipRope\obj\Debug\07-TakeSkipRope.csproj.CoreCompileInputs.cache
+C:\Users\Laptop\Desktop\C#\Dictionaries and Lists - More Exercises\More-Exercises-DictionariesAndLists\07-TakeSkipRope\obj\Debug\07-TakeSkipRope.exe
+C:\Users\Laptop\Desktop\C#\Dictionaries and Lists - More Exercises\More-Exercises-DictionariesAndLists\07-TakeSkipRope\obj\Debug\07-TakeSkipRope.pdb
