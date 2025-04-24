@@ -1,0 +1,7 @@
+C:\Users\Laptop\Desktop\C#\Dictionaries and Lists - More Exercises\More-Exercises-DictionariesAndLists\06-ByteFlip\bin\Debug\06-ByteFlip.exe.config
+C:\Users\Laptop\Desktop\C#\Dictionaries and Lists - More Exercises\More-Exercises-DictionariesAndLists\06-ByteFlip\bin\Debug\06-ByteFlip.exe
+C:\Users\Laptop\Desktop\C#\Dictionaries and Lists - More Exercises\More-Exercises-DictionariesAndLists\06-ByteFlip\bin\Debug\06-ByteFlip.pdb
+C:\Users\Laptop\Desktop\C#\Dictionaries and Lists - More Exercises\More-Exercises-DictionariesAndLists\06-ByteFlip\obj\Debug\06-ByteFlip.csproj.AssemblyReference.cache
+C:\Users\Laptop\Desktop\C#\Dictionaries and Lists - More Exercises\More-Exercises-DictionariesAndLists\06-ByteFlip\obj\Debug\06-ByteFlip.csproj.CoreCompileInputs.cache
+C:\Users\Laptop\Desktop\C#\Dictionaries and Lists - More Exercises\More-Exercises-DictionariesAndLists\06-ByteFlip\obj\Debug\06-ByteFlip.exe
+C:\Users\Laptop\Desktop\C#\Dictionaries and Lists - More Exercises\More-Exercises-DictionariesAndLists\06-ByteFlip\obj\Debug\06-ByteFlip.pdb
