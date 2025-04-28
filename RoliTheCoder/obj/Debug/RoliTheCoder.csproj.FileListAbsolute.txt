@@ -1,0 +1,7 @@
+C:\Users\Laptop\Desktop\C#\Dictionaries and Lists - More Exercises\RoliTheCoder\bin\Debug\RoliTheCoder.exe.config
+C:\Users\Laptop\Desktop\C#\Dictionaries and Lists - More Exercises\RoliTheCoder\bin\Debug\RoliTheCoder.exe
+C:\Users\Laptop\Desktop\C#\Dictionaries and Lists - More Exercises\RoliTheCoder\bin\Debug\RoliTheCoder.pdb
+C:\Users\Laptop\Desktop\C#\Dictionaries and Lists - More Exercises\RoliTheCoder\obj\Debug\RoliTheCoder.csproj.AssemblyReference.cache
+C:\Users\Laptop\Desktop\C#\Dictionaries and Lists - More Exercises\RoliTheCoder\obj\Debug\RoliTheCoder.csproj.CoreCompileInputs.cache
+C:\Users\Laptop\Desktop\C#\Dictionaries and Lists - More Exercises\RoliTheCoder\obj\Debug\RoliTheCoder.exe
+C:\Users\Laptop\Desktop\C#\Dictionaries and Lists - More Exercises\RoliTheCoder\obj\Debug\RoliTheCoder.pdb
